@@ -1,0 +1,4 @@
+GET http://localhost:3000/file/livedoc
+
+
+GET http://localhost:3000/file
